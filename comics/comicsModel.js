@@ -18,10 +18,3 @@ function remove(id){
       .del();
 }
 
-function getAll() {
-    return null;
-}
-
-function findById(id) {
-    return null;
-}
